@@ -4,5 +4,3 @@ mdp-change-4.cpp
 ce-generic-code.cpp
 
 The mdp-change-2.cpp implements the proposed algorithms for 2 sensors case, while mdp-change-4.cpp implements the proposed algorithms for 4 sensors case. ce-generic-code.cpp implements the Cross Entropy algorithm for 4 sensors case. The codes are complete and require gcc compiler on Linux (or appropriate C++ compiler) on Windows to compile.
-
-All the .txt files contain the policy output of the algorithms, the names of the files indicate the settings used for generating these results.
